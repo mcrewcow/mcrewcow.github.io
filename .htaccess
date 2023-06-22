@@ -6,6 +6,6 @@ DirectoryIndex page37070804.html
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} /robots.txt
-RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
-RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{https://mcrewcow.github.io/}.txt" -f
+RewriteRule ^(.*)$ robots_%{https://mcrewcow.github.io/}.txt [NC,L]
 
