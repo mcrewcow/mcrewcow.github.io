@@ -12,4 +12,4 @@ Disallow:
 
 
 Sitemap: http://baranovlab.tilda.ws/sitemap.xml
-Host: baranovlab.tilda.ws
+Host: https://mcrewcow.github.io/
